@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/rizal khoirul anam](https://www.linkedin.com/in/rizal-khoirul-anam-a79544201/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizal khoirul anam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rizal-khoirul-anam-a79544201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizal khoirul anam" height="30" width="40" /></a>
 <a href="https://fb.com/rizalkhoirula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rizalkhoirula" height="30" width="40" /></a>
 <a href="https://instagram.com/xfthyy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xfthyy_" height="30" width="40" /></a>
 </p>
