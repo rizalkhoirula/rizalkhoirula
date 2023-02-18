@@ -4,6 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizalkhoirula&label=Profile%20views&color=0e75b6&style=flat" alt="rizalkhoirula" /> </p>
 
 
+
+
+
 - 🌱 I’m currently learning **Laravel And Flutter**
 
 - 👯 I’m looking to collaborate on **Mobile Project**
@@ -14,9 +17,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rizal-khoirul-anam-a79544201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizal khoirul anam" height="30" width="40" /></a>
-<a href="https://fb.com/rizalkhoirula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rizalkhoirula" height="30" width="40" /></a>
-<a href="https://instagram.com/xfthyy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xfthyy_" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/xfthyy/">
+<img src="https://img.shields.io/badge/FOLLOW_@xfthyy_-700-E4405F?logo=instagram&style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/rizal-khoirul-anam-a79544201/">
+<img src="https://img.shields.io/badge/FOLLOW_Rizal%20Khoirul%20Anam-50-E4405F?logo=Linkedin&style=for-the-badge"/></a>
+<a href="https://fb.com/rizalkhoirula">
+<img src="https://img.shields.io/badge/FOLLOW_Rizal%20KA-16K-E4405F?logo=facebook&style=for-the-badge"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
