@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizalkhoirula" alt="rizalkhoirula" /></a> </p>
 
+- 🌱 I’m currently learning **Laravel And Flutter**
+
+- 👯 I’m looking to collaborate on **Mobile Project**
+
+- 👨‍💻 All of my projects are available at [https://github.com/rizalkhoirula](https://github.com/rizalkhoirula)
+
 - 📫 How to reach me **rrizalkaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
