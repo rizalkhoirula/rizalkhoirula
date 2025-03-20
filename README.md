@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">https://rizalkhoirula.vercel.app/</h3>
+<h3 align="center">https://www.rizalkhoirula.my.id/</h3>
 
 
 
